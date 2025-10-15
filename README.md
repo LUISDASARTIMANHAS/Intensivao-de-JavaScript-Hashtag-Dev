@@ -7,4 +7,4 @@ Intensivão de JavaScript - Aplicativo de Audiobook
 https://luisdasartimanhas.github.io/Intensivao-de-JavaScript-Hashtag-Dev/audiobook-website/
 
 ### [APPLE WATCH WEBSITE](https://luisdasartimanhas.github.io/Intensivao-de-JavaScript-Hashtag-Dev/apple-watch-website/)
-https://luisdasartimanhas.github.io/Intensivao-de-JavaScript-Hashtag-Dev/audiobook-website/
+https://luisdasartimanhas.github.io/Intensivao-de-JavaScript-Hashtag-Dev/apple-watch-website/
